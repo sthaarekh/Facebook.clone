@@ -1,0 +1,140 @@
+.id {
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.inform {
+  display: flex;
+  border-radius: 8px;
+  background-color: #fff;
+  /* height: 456px; */
+  box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+  margin: 40px;
+  padding: 13px;
+  margin-top: -305px;
+  margin-left: 620px;
+  flex-direction: column;
+}
+
+.ep {
+  display: inline;
+  border: 1px solid #dddfe2;
+  border-radius: 6px;
+  padding: 14px 16px;
+  vertical-align: middle;
+  height: 22px;
+  font-size: 17px;
+  width: 332px;
+  outline: none;
+}
+
+.ep:focus{
+  box-shadow: 0 0 0 2px #a5c1e55e;
+  border: 1px solid #1877f2;
+}
+#pwd {
+  display: inline;
+  border: 1px solid #dddfe2;
+  border-radius: 6px;
+  padding: 14px 16px;
+  vertical-align: middle;
+  height: 22px;
+  font-size: 17px;
+  width: 332px;
+  margin-top: 15px;
+  outline: none;
+}
+.pwd:focus{
+  box-shadow: 0 0 0 2px #a5c1e55e;
+  border: 1px solid #1877f2;
+  
+}
+.vw{
+  display: flex;
+  justify-content: flex-end;
+  box-sizing: border-box;
+  margin-top: -33px;
+  margin-bottom: 17px;
+  margin-right: 20px;
+  z-index: 100;
+}
+.eye{
+  width: 18px;
+  border-radius: 10px;
+  cursor: pointer;
+
+}
+
+.eye:hover{
+  background-color: rgba(230, 228, 228, 0.644);
+}
+.show{
+  background-color: transparent;
+  border: none;
+  display: flex;
+  cursor: pointer;
+}
+::placeholder {
+  color: rgb(153, 153, 153);
+}
+
+.li {
+  color: white;
+  background-color: #1877f2;
+  border: none;
+  border-radius: 6px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 48px;
+  padding: 0 16px;
+  width: 366px;
+  margin-top: 15px;
+  height: 47px;
+  cursor: pointer;
+}
+.fp {
+  justify-content: center;
+  text-align: center;
+  margin-top: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: #1877f2;
+}
+.fp :hover {
+  color: #1877f2;
+  text-decoration: underline;
+}
+.hr {
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid #dadde1;
+  display: flex;
+  margin-top: 20px;
+  text-align: center;
+  width: 367x;
+}
+.create {
+  justify-content: center;
+  text-align: center;
+}
+.ca {
+  box-sizing: border-box;
+  border: none;
+  border-radius: 6px;
+  font-size: 17px;
+  font-weight: bold;
+  color: white;
+  background-color: #42b72a;
+  line-height: 48px;
+  padding: 0 16px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}

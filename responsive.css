@@ -1,0 +1,116 @@
+@media(max-width:900px) {
+    .top {
+        display: block;
+        justify-content: center;
+            }
+            .logo{
+                display: block;
+                margin: 0;
+            }
+            .rl{
+                display: block;
+                margin: 0;
+                margin-top: -5px;
+                font-size: 22px;
+            }
+            .inf{
+                display: block;
+                margin: 0;
+                font-size: 15px;
+                margin-top: 5px;
+            }
+        
+}
+@media(max-width:900px) {
+    .ids{
+        display: flex;
+        justify-content: center;
+        margin: 0;
+        padding: 0;
+        margin-top: 20px;
+    }
+    .id1{
+        display: flex;
+        margin: 0;
+        margin-right: 10px;
+    }
+    .txt{
+        margin: 0;
+    }
+    .id2{
+        display: flex;
+        margin: 0;
+        margin-left: 10px;
+    }
+    .id{
+               margin: 0;
+               margin-top: 20px;
+    }
+
+    .inform{
+        margin: 0;
+    }
+    .cp{
+        display: block;
+        margin: 0;
+        justify-content: center;
+        text-align: center;
+    }
+    .cpp{
+        margin: 0;
+        margin-top: 30px;
+    }
+    }
+
+@media(max-width:1000px){
+    footer{
+        display: block;
+        justify-content: center;
+        text-align: center;
+    }
+    .languages{
+        display: none;
+        margin: 0;
+    }
+    .list{
+        display: none;
+        justify-content: center;
+    }
+    .content-list{
+        display: none;
+        margin: 0;
+    }
+    .contentlist{
+        display: none;
+        margin: 0;
+    }
+    .fbc{
+        display: flex;
+    }
+
+
+}
+@media(max-width:1000px){
+    .myinf{
+        display: none;
+        justify-content: center;
+        margin: 0;
+        padding: 0;
+        margin-top: -150px;
+
+    }
+    .arekh{
+        display: none;
+    }
+    .text{
+        margin-right: -500px;
+        display: none;
+    }
+    .cprtt{
+        display: flex;
+        opacity: 1;
+        margin: 0;
+        margin-top: -37px;
+        margin-bottom: 10px;
+    }
+}

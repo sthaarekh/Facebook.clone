@@ -1,0 +1,65 @@
+
+.icn-fb{
+  width: 63px;
+  height: 40px;
+  background: transparent;
+  box-sizing: border-box;
+  margin-left: -10px;
+  display: flex;
+  }
+  .icn-ig{
+    width: 35px;
+  height: 35px;
+  background: transparent;
+  box-sizing: border-box;
+  margin-left: 55px;
+  display: flex;
+  margin-top: -37px;
+  }
+  .icn-tw{
+    width: 55px;
+  height: 55px;
+  background: transparent;
+  box-sizing: border-box;
+  margin-left: 95px;
+  display: flex;
+  margin-top: -45px;
+  }
+  
+  .icn-yt{
+    /* width: 63px; */
+  height: 33px;
+  background: transparent;
+  box-sizing: border-box;
+  margin-left: 156px;
+  display: flex;
+  margin-top: -45px;
+  }
+
+   
+ .arekh{
+    width: 150px;
+    height: 234px;
+    border-radius: 30px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+ 
+}
+
+.myinf{
+    display: flex;
+    background-color: #2e2e54;
+    justify-content: center;
+    padding-right: 720px;
+     }
+
+.text{
+    background: transparent;
+    box-sizing: border-box;
+
+    margin-left: 30px;
+    color: rgb(129, 238, 39);
+    font-family: 'Encode Sans SC', sans-serif;
+    font-size: 70px;
+    width: 100px;
+}
